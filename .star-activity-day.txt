@@ -1,0 +1,1 @@
+activity-day:20776 claimed microsoft/terminal c99af079d8bf
